@@ -17,10 +17,10 @@ body.index {
 
 @media(min-width:770px) {
 	.rowImg {
-		display:flex;
-	}
-	.imgIndex {
-		height:100vh;
+		height: 100%;
+    		display: flex;
+    		justify-content: center;
+    		align-items: center;
 	}
 }
 
