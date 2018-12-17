@@ -15,8 +15,10 @@ body.index {
   color:#e0e0e0;
 }
 
-.rowImg {
-  position:25%;
+@media(min-width:770px) {
+	.rowImg {
+  		top:25%;
+	}
 }
 
 /* images linus et projet*/
