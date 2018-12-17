@@ -15,6 +15,10 @@ body.index {
   color:#e0e0e0;
 }
 
+row.image {
+  position:25%;
+}
+
 /* images linus et projet*/
 
 .col.imglinus:hover {
