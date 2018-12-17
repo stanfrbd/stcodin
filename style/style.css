@@ -17,7 +17,10 @@ body.index {
 
 @media(min-width:770px) {
 	.rowImg {
-  		top:25%;
+		display:flex;
+	}
+	.imgIndex {
+		height:100vh;
 	}
 }
 
