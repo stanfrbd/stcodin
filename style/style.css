@@ -131,6 +131,12 @@ p.paragraph {
 	color:#aa0000;
 }
 
+/* Page Ressources */
+
+ul.resources a:hover {
+    color:#aa0000;
+}
+
 /* CSS Autres Pages */
 
 #wrapper {
