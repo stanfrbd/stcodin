@@ -289,3 +289,23 @@ ul.resources a:hover {
     border-color: grey;
 
 }
+
+/* formulaire*/
+label {
+  display: inline-block;
+  width: 10%;
+  text-align: right;
+}
+
+form {
+  margin: auto;
+}
+
+
+.button {
+  margin: auto;
+}
+
+button {
+  margin: auto;
+}
