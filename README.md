@@ -7,7 +7,7 @@ Nous sommes deux élèves de DUT informatique de première année.
 
 Notre soutenance se déroulera en janvier.
 
-Il y a plusieurs pages, plusieurs fichiers de style et l'utlisation de javascript.
+Il y a plusieurs pages, plusieurs fichiers de style et l'utilisation de javascript.
 
 
 
