@@ -124,7 +124,7 @@ p.paragraph {
 /* Page About */
 
 .about .lienGithubAbout {
-	font-size:1.5em;
+	font-size:1.3em;
 }
 
 .about .lienGithubAbout:hover {
@@ -135,6 +135,10 @@ p.paragraph {
 
 ul.resources a:hover {
     color:#aa0000;
+}
+
+ul.skills {
+  color: white;
 }
 
 /* CSS Autres Pages */
