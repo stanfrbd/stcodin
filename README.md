@@ -4,7 +4,7 @@ Dans le cadre de notre projet de CODIN, nous avons dû réaliser un site web ave
 
 Nous sommes deux élèves de DUT informatique de première année : 
 
-Mohamed Boukhtam et Stanislas Medrano.
+Mohamed B. et Stanislas M.
 
 Notre soutenance se déroulera le 7 janvier 2018.
 
